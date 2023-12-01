@@ -10,6 +10,7 @@ ipykernel = "*"
 matplotlib = "*"
 sklearn = "*"
 scikit-learn = "*"
+scikeras = "*"
 
 [dev-packages]
 
